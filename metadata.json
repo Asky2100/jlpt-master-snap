@@ -1,0 +1,7 @@
+{
+  "name": "JLPT Master Snap",
+  "description": "A specialized tool for Japanese learners to photograph, crop, and analyze JLPT problems using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
